@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>role_node_set</title>
+</head>
+<body>
+
+</body>
+<script>
+    var url="{:U('Role/role_node_set')}";
+    var lujing=new Array();
+    $.ajax({
+        type:'post',
+        url:url,
+        dataType:"json",
+        success: function (data) {
+            $.each(data,function(item,i){
+
+            })
+        },
+        error: function (XMLHttpRequest, textStatus, errorThrown) {
+            alert(errorThrown);
+        }
+    })
+</script>
+</html>

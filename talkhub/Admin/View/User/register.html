@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>注册</title>
+</head>
+<body>
+<form id="reg" action="{$smarty.const.__SELF__}" method="post">
+    <p>用户名：<input type="text" name="u_nick_name"></p><span style="color:red;">{$errorInfo.u_nick_name}</span>
+    <p>登录名：<input type="text" name="u_login_name"></p><span style="color:red;">{$errorInfo.u_login_name}</span>
+    <p>密 码：<input type="password" name="u_login_pwd"></p><span style="color:red;">{$errorInfo.u_login_pwd}</span>
+    <p>重复密码：<input type="password" name="u_login_pwd1"></p><span style="color:red;">{$errorInfo.u_login_pwd1}</span>
+    <p>E-mail：<input type="text" name="u_email"></p><span style="color:red;">{$errorInfo.u_email}</span>
+    <p>Tel：<input type="text" name="u_Tel"></p><span style="color:red;">{$errorInfo.u_Tel}</span>
+    <input name="u_sex" type="radio" value="1" checked="checked"/>男
+    <input name="u_sex" type="radio" value="0"/>女
+    <input name="u_sex" type="radio" value="2"/>不详<span style="color:red;">{$errorInfo.u_sex}</span><br>
+    <input type="text" name="captcha">
+    <img src="{$smarty.const.__CONTROLLER__}/verify_img"
+         onclick="this.src='{$smarty.const.__CONTROLLER__}/verify_img'" alt=""/><span style="color:red;">{$errorInfo.verify}</span>
+    <p><input type="submit" class="btn" value="提交注册"></p>
+
+</form>
+</body>
+</html>

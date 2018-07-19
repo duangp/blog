@@ -1,0 +1,108 @@
+[ 2018-07-16T11:46:44+08:00 ] ::1 /talkhub/talkhub/index.php/admin/index/test
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' '?', '?', '?', '?', '?')' at line 1
+
+[ 2018-07-16T11:52:57+08:00 ] ::1 /talkhub/talkhub/index.php/admin/index/test
+ERR: SQLSTATE[HY000]: General error
+
+[ 2018-07-16T11:53:27+08:00 ] ::1 /talkhub/talkhub/index.php/admin/index/test
+ERR: SQLSTATE[HY000]: General error
+
+[ 2018-07-16T11:53:42+08:00 ] ::1 /talkhub/talkhub/index.php/admin/index/test
+ERR: SQLSTATE[HY000]: General error
+
+[ 2018-07-16T11:55:58+08:00 ] ::1 /talkhub/talkhub/index.php/admin/index/test
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' '用户列表', 'Admin', 'index', 'User', 'Admin/User/index')' at line 1
+
+[ 2018-07-16T11:56:39+08:00 ] ::1 /talkhub/talkhub/index.php/admin/index/test
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' '用户列表', 'Admin', 'index', 'User', 'Admin/User/index')' at line 1
+
+[ 2018-07-16T12:17:46+08:00 ] ::1 /talkhub/talkhub/index.php/admin/index/test
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'n_pid' cannot be null
+
+[ 2018-07-16T12:18:39+08:00 ] ::1 /talkhub/talkhub/index.php/admin/index/test
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'n_pid' cannot be null
+
+[ 2018-07-16T12:18:58+08:00 ] ::1 /talkhub/talkhub/index.php/admin/index/test
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'n_pid' cannot be null
+
+[ 2018-07-16T12:19:09+08:00 ] ::1 /talkhub/talkhub/index.php/admin/index/test
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'n_pid' cannot be null
+
+[ 2018-07-16T12:19:40+08:00 ] ::1 /talkhub/talkhub/index.php/admin/index/test
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'n_pid' cannot be null
+
+[ 2018-07-16T12:19:41+08:00 ] ::1 /talkhub/talkhub/index.php/admin/index/test
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'n_pid' cannot be null
+
+[ 2018-07-16T12:20:52+08:00 ] ::1 /talkhub/talkhub/index.php/admin/index/test
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'n_pid' cannot be null
+
+[ 2018-07-16T12:21:39+08:00 ] ::1 /talkhub/talkhub/index.php/admin/index/test
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'n_pid' cannot be null
+
+[ 2018-07-16T12:21:50+08:00 ] ::1 /talkhub/talkhub/index.php/admin/index/test
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'n_pid' cannot be null
+
+[ 2018-07-16T12:23:27+08:00 ] ::1 /talkhub/talkhub/index.php/admin/index/test
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column '后台管理' in 'where clause'
+
+[ 2018-07-16T13:19:24+08:00 ] ::1 /talkhub/talkhub/index.php/admin/index/test
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'n_pid' cannot be null
+
+[ 2018-07-16T13:19:52+08:00 ] ::1 /talkhub/talkhub/index.php/admin/index/test
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'n_pid' cannot be null
+
+[ 2018-07-16T13:20:40+08:00 ] ::1 /talkhub/talkhub/index.php/admin/index/test
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+
+[ 2018-07-16T13:21:44+08:00 ] ::1 /talkhub/talkhub/index.php/admin/index/test
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'n_pid' cannot be null
+
+[ 2018-07-16T13:57:13+08:00 ] ::1 /talkhub/talkhub/index.php/admin/index/test
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'n_pid' cannot be null
+
+[ 2018-07-16T13:57:53+08:00 ] ::1 /talkhub/talkhub/index.php/admin/index/test
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'n_pid' cannot be null
+
+[ 2018-07-16T13:58:26+08:00 ] ::1 /talkhub/talkhub/index.php/admin/index/test
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'n_pid' cannot be null
+
+[ 2018-07-16T13:58:29+08:00 ] ::1 /talkhub/talkhub/index.php/admin/index/test
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'n_pid' cannot be null
+
+[ 2018-07-16T13:59:55+08:00 ] ::1 /talkhub/talkhub/index.php/admin/index/test
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column '后台管理' in 'where clause'
+
+[ 2018-07-16T14:00:09+08:00 ] ::1 /talkhub/talkhub/index.php/admin/index/test
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column '后台管理' in 'where clause'
+
+[ 2018-07-16T14:00:39+08:00 ] ::1 /talkhub/talkhub/index.php/admin/index/test
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column '后台管理' in 'where clause'
+
+[ 2018-07-16T14:14:43+08:00 ] ::1 /talkhub/talkhub/index.php/admin/index/test
+ERR: Think\Model:get_error方法不存在！
+
+[ 2018-07-16T14:15:28+08:00 ] ::1 /talkhub/talkhub/index.php/admin/index/test
+ERR: Think\Model:get_error方法不存在！
+
+[ 2018-07-16T17:08:46+08:00 ] ::1 /talkhub/talkhub/index.php/admin/index/test
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%d ) LIMIT 1' at line 1
+
+[ 2018-07-16T17:11:00+08:00 ] ::1 /talkhub/talkhub/index.php/admin/index/test
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%d ) LIMIT 1' at line 1
+
+[ 2018-07-16T17:11:25+08:00 ] ::1 /talkhub/talkhub/index.php/admin/index/test
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%d ) LIMIT 1' at line 1
+
+[ 2018-07-16T17:11:51+08:00 ] ::1 /talkhub/talkhub/index.php/admin/index/test
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? ) LIMIT 1' at line 1
+
+[ 2018-07-16T17:12:05+08:00 ] ::1 /talkhub/talkhub/index.php/admin/index/test
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? ) LIMIT 1' at line 1
+
+[ 2018-07-16T17:18:22+08:00 ] ::1 /talkhub/talkhub/index.php/admin/index/test
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? ) LIMIT 1' at line 1
+
+[ 2018-07-16T22:37:10+08:00 ] ::1 /talkhub/talkhub/index.php/admin/index/test
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'n_pid' cannot be null
+

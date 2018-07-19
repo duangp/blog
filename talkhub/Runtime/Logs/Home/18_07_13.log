@@ -1,0 +1,69 @@
+[ 2018-07-13T09:53:30+08:00 ] ::1 /talkhub/talkhub/index.php/Home/Node/node_list
+ERR: 无法加载控制器:Node
+
+[ 2018-07-13T09:53:42+08:00 ] ::1 /talkhub/talkhub/index.php/Home/Node/node_list
+ERR: 无法加载控制器:Node
+
+[ 2018-07-13T09:53:43+08:00 ] ::1 /talkhub/talkhub/index.php/Home/Node/node_list
+ERR: 无法加载控制器:Node
+
+[ 2018-07-13T09:53:55+08:00 ] ::1 /talkhub/talkhub/index.php/Home/Node/node_list
+ERR: 无法加载控制器:Node
+
+[ 2018-07-13T14:46:13+08:00 ] ::1 /talkhub/talkhub/index.php/Home/Topic/topic_detail/tp_id/17
+ERR: 非法操作:topic_detail
+
+[ 2018-07-13T16:23:26+08:00 ] ::1 /talkhub/talkhub/index.php/Home/Topic/topic_detail/tp_id/13
+ERR: Syntax Error in template "D:/phpStudy/WWW/talkhub/talkhub/Home/View\Topic\topic_detail.html"  on line 8 "{foreach $date =&gt; $value}"  - Unexpected " => ", expected one of: "}" , " "
+
+[ 2018-07-13T21:23:54+08:00 ] ::1 /talkhub/talkhub/index.php/Home/Topic/verify_img
+ERR: 非法操作:verify_img
+
+[ 2018-07-13T21:25:19+08:00 ] ::1 /talkhub/talkhub/index.php/Home/Topic/verify_img
+ERR: 非法操作:verify_img
+
+[ 2018-07-13T22:35:23+08:00 ] ::1 /talkhub/talkhub/index.php/Home/Topic/topic_add
+ERR: 非法操作:topic_add
+
+[ 2018-07-13T22:42:13+08:00 ] ::1 /talkhub/talkhub/index.php/Home/Topic/topic_add
+ERR: 非法操作:topic_add
+
+[ 2018-07-13T22:43:11+08:00 ] ::1 /talkhub/talkhub/index.php/Home/comment/verify_img
+ERR: 非法操作:verify_img
+
+[ 2018-07-13T22:43:27+08:00 ] ::1 /talkhub/talkhub/index.php/Home/comment/verify_img
+ERR: 非法操作:verify_img
+
+[ 2018-07-13T22:43:27+08:00 ] ::1 /talkhub/talkhub/index.php/Home/comment/verify_img
+ERR: 非法操作:verify_img
+
+[ 2018-07-13T22:47:14+08:00 ] ::1 /talkhub/talkhub/index.php/Home/Topic/tp_id.html
+ERR: 非法操作:tp_id
+
+[ 2018-07-13T22:48:18+08:00 ] ::1 /talkhub/talkhub/index.php/Home/comment/comment_add/tp_id/8
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'
+
+[ 2018-07-13T22:48:53+08:00 ] ::1 /talkhub/talkhub/index.php/Home/Topic/tp_id.html
+ERR: 非法操作:tp_id
+
+[ 2018-07-13T22:51:14+08:00 ] ::1 /talkhub/talkhub/index.php/Home/Topic/tp_id.html
+ERR: 非法操作:tp_id
+
+[ 2018-07-13T22:51:56+08:00 ] ::1 /talkhub/talkhub/index.php/Home/Topic/tp_id.html
+ERR: 非法操作:tp_id
+
+[ 2018-07-13T22:54:40+08:00 ] ::1 /talkhub/talkhub/index.php/Home/Topic/tp_id.html
+ERR: 非法操作:tp_id
+
+[ 2018-07-13T22:56:17+08:00 ] ::1 /talkhub/talkhub/index.php/Home/Topic/tp_id.html
+ERR: 非法操作:tp_id
+
+[ 2018-07-13T23:09:02+08:00 ] ::1 /talkhub/talkhub/index.php/Home/Topic/tp_id/$_POST['tp_id'].html
+ERR: 非法操作:tp_id
+
+[ 2018-07-13T23:31:32+08:00 ] ::1 /talkhub/talkhub/index.php/Home/Topic/tp_id.html
+ERR: 非法操作:tp_id
+
+[ 2018-07-13T23:44:36+08:00 ] ::1 /talkhub/talkhub/index.php/Home/comment/comment_add/tp_id/10
+ERR: 模板不存在:D:/phpStudy/WWW/talkhub/talkhub/Home/View/Comment/comment_add.html
+

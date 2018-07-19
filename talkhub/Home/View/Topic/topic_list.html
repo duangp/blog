@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>topic_list</title>
+</head>
+<body>
+    {foreach $date as $key => $value}
+        <a href="{$smarty.const.__CONTROLLER__}/topic_detail/tp_id/{$value.tp_id}">{$value.tp_title}</a><br>
+    {/foreach}
+</body>
+</html>

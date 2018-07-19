@@ -1,0 +1,78 @@
+[ 2018-07-13T09:54:06+08:00 ] ::1 /talkhub/talkhub/index.php/ADMIN/Node/node_list
+ERR: 无法加载控制器:Node
+
+[ 2018-07-13T09:54:10+08:00 ] ::1 /talkhub/talkhub/index.php/ADMIN/Node/node_list
+ERR: 无法加载控制器:Node
+
+[ 2018-07-13T09:54:53+08:00 ] ::1 /talkhub/talkhub/index.php/ADMIN/Node/node_list
+ERR: 无法加载控制器:Node
+
+[ 2018-07-13T09:54:57+08:00 ] ::1 /talkhub/talkhub/index.php/Admin/Node/node_list
+ERR: 模板不存在:D:/phpStudy/WWW/talkhub/talkhub/Admin/View/Node/node_list.html
+
+[ 2018-07-13T10:02:34+08:00 ] ::1 /talkhub/talkhub/index.php/Admin/role/role_node_set
+ERR: 无法加载控制器:Role
+
+[ 2018-07-13T10:02:53+08:00 ] ::1 /talkhub/talkhub/index.php/Admin/role/role_node_set
+ERR: 参数错误或者未定义:r_id
+
+[ 2018-07-13T10:04:27+08:00 ] ::1 /talkhub/talkhub/index.php/Admin/role/role_node_set
+ERR: 参数错误或者未定义:r_id
+
+[ 2018-07-13T10:04:39+08:00 ] ::1 /talkhub/talkhub/index.php/Admin/role/role_node_set
+ERR: 参数错误或者未定义:r_id
+
+[ 2018-07-13T10:04:51+08:00 ] ::1 /talkhub/talkhub/index.php/Admin/role/role_node_set
+ERR: 参数错误或者未定义:r_id
+
+[ 2018-07-13T10:04:52+08:00 ] ::1 /talkhub/talkhub/index.php/Admin/role/role_node_set
+ERR: 参数错误或者未定义:r_id
+
+[ 2018-07-13T10:05:02+08:00 ] ::1 /talkhub/talkhub/index.php/Admin/role/role_node_set
+ERR: 参数错误或者未定义:r_id
+
+[ 2018-07-13T10:05:31+08:00 ] ::1 /talkhub/talkhub/index.php/Admin/role/role_node_set
+ERR: 参数错误或者未定义:r_id
+
+[ 2018-07-13T10:06:03+08:00 ] ::1 /talkhub/talkhub/index.php/Admin/role/role_node_set
+ERR: 参数错误或者未定义:r_id
+
+[ 2018-07-13T10:06:22+08:00 ] ::1 /talkhub/talkhub/index.php/Admin/role/role_node_set
+ERR: 参数错误或者未定义:r_id
+
+[ 2018-07-13T10:08:44+08:00 ] ::1 /talkhub/talkhub/index.php/Admin/role/role_node_set
+ERR: Syntax Error in template "D:/phpStudy/WWW/talkhub/talkhub/Admin/View\Role\role_node_set.html"  on line 9 "{if($value.n_pid) == 0)" unknown function "if"
+
+[ 2018-07-13T10:14:17+08:00 ] ::1 /talkhub/talkhub/index.php/Admin/role/role_node_set
+ERR: Syntax Error in template "D:/phpStudy/WWW/talkhub/talkhub/Admin/View\Role\role_node_set.html"  on line 9 "{if $value.n_pid == 0)"  - Unexpected ")"
+
+[ 2018-07-13T10:14:19+08:00 ] ::1 /talkhub/talkhub/index.php/Admin/role/role_node_set
+ERR: Syntax Error in template "D:/phpStudy/WWW/talkhub/talkhub/Admin/View\Role\role_node_set.html"  on line 9 "{if $value.n_pid == 0)"  - Unexpected ")"
+
+[ 2018-07-13T10:14:32+08:00 ] ::1 /talkhub/talkhub/index.php/Admin/role/role_node_set
+ERR: Syntax Error in template "D:/phpStudy/WWW/talkhub/talkhub/Admin/View\Role\role_node_set.html"  on line 9 "{if $value.n_pid == 0)"  - Unexpected ")"
+
+[ 2018-07-13T10:16:14+08:00 ] ::1 /talkhub/talkhub/index.php/Admin/role/role_node_set
+ERR: Syntax Error in template "D:/phpStudy/WWW/talkhub/talkhub/Admin/View\Role\role_node_set.html"  on line 9 "{if $value.n_pid == 0)}"  - Unexpected ")"
+
+[ 2018-07-13T10:32:37+08:00 ] ::1 /talkhub/talkhub/index.php/Admin/role/role_node_set
+ERR: Syntax Error in template "D:/phpStudy/WWW/talkhub/talkhub/Admin/View\Role\role_node_set.html"  on line 14 "{/foreach}" unclosed {foreach} tag
+
+[ 2018-07-13T10:32:48+08:00 ] ::1 /talkhub/talkhub/index.php/Admin/role/role_node_set
+ERR: Syntax Error in template "D:/phpStudy/WWW/talkhub/talkhub/Admin/View\Role\role_node_set.html"  on line 15 "{/foreach}" unclosed {foreach} tag
+
+[ 2018-07-13T13:08:51+08:00 ] ::1 /talkhub/talkhub/index.php/Admin/user/login
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%ddddd )' at line 1
+
+[ 2018-07-13T13:10:20+08:00 ] ::1 /talkhub/talkhub/index.php/Admin/user/login
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%sdddd )' at line 1
+
+[ 2018-07-13T13:14:24+08:00 ] ::1 /talkhub/talkhub/index.php/Admin/user/login
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dddd' in 'where clause'
+
+[ 2018-07-13T13:15:51+08:00 ] ::1 /talkhub/talkhub/index.php/Admin/user/login
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dddd' in 'where clause'
+
+[ 2018-07-13T14:25:03+08:00 ] ::1 /talkhub/talkhub/index.php/Admin/topic/topic_list
+ERR: 无法加载控制器:Topic
+

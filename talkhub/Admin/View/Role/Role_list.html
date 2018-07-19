@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>角色列表</title>
+</head>
+<body>
+{foreach $date as $key => $value}
+{$value.u_id}
+<a href="{$smarty.const.__CONTROLLER__}/role_del/r_id/{$value.r_id}">删除</a>
+<a href="{$smarty.const.__CONTROLLER__}/role_/r_id/{$value.r_id}">删除</a>
+{/foreach}
+</body>
+<script>
+    var url="{:U('Role/ajax')}";
+    var lujing=new Array();
+    $.ajax({
+        type:'post',
+        url:url,
+        dataType:"json",
+        success: function (data) {
+            $.each(data,function(item,i){
+
+            })
+        },
+        error: function (XMLHttpRequest, textStatus, errorThrown) {
+            alert(errorThrown);
+        }
+    })
+</script>
+</html>

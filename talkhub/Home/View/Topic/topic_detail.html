@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>topic_list</title>
+</head>
+<body>
+    {foreach $date as $key => $value}
+        <!--<a href="{$smarty.const.__CONTROLLER__}/topic_detail/tp_id/{$value.tp_id}"></a><br>-->
+    <p>{$value.tp_content}</p>
+
+    {/foreach}
+    <form id="comment" action="{$smarty.const.__MODULE__}/comment/comment_add/tp_id/{$tp_id}" method="post">
+        <p>评论<input type="text" name="cmt_content" value="我也要说两句"></p><span style="color:red;">{$errorInfo.cmt_content}</span>
+        <input type="text" name="captcha">
+        <img src="{$smarty.const.__MODULE__}/topic/verify_img"
+             onclick="this.src='{$smarty.const.__MODULE__}/topic/verify_img'" alt=""/><span style="color:red;">{$errorInfo.verify}</span>
+        <p><input type="submit"  value="提交"></p>
+
+    </form>
+</body>
+</html>

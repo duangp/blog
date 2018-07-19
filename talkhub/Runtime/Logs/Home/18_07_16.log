@@ -1,0 +1,9 @@
+[ 2018-07-16T08:46:00+08:00 ] ::1 /talkhub/talkhub/index.php/Home/Topic/topic_detail/tp_id.html
+ERR: 参数错误或者未定义:tp_id
+
+[ 2018-07-16T08:46:38+08:00 ] ::1 /talkhub/talkhub/index.php/Home/comment/comment_add/tp_id/8
+ERR: 模板不存在:D:/phpStudy/WWW/talkhub/talkhub/Home/View/Comment/comment_add.html
+
+[ 2018-07-16T08:49:06+08:00 ] ::1 /talkhub/talkhub/index.php/Home/comment/comment_add/tp_id/8
+ERR: 模板不存在:D:/phpStudy/WWW/talkhub/talkhub/Home/View/Comment/comment_add.html
+

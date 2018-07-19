@@ -1,0 +1,39 @@
+[ 2018-07-17T10:33:28+08:00 ] ::1 /talkhub/talkhub/index.php/admin/index/test
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'talkhub.t_cat' doesn't exist
+
+[ 2018-07-17T10:47:37+08:00 ] ::1 /talkhub/talkhub/index.php/admin/node/nodelist
+ERR: 非法操作:nodelist
+
+[ 2018-07-17T10:48:03+08:00 ] ::1 /talkhub/talkhub/index.php/admin/node/nodelist
+ERR: 非法操作:nodelist
+
+[ 2018-07-17T10:49:21+08:00 ] ::1 /talkhub/talkhub/index.php/admin/node/nodelist
+ERR: 非法操作:nodelist
+
+[ 2018-07-17T10:49:31+08:00 ] ::1 /talkhub/talkhub/index.php/admin/node/nodelist
+ERR: 非法操作:nodelist
+
+[ 2018-07-17T11:03:23+08:00 ] ::1 /talkhub/talkhub/index.php/admin/node/nodelist
+ERR: 非法操作:nodelist
+
+[ 2018-07-17T11:04:23+08:00 ] ::1 /talkhub/talkhub/index.php/admin/node/node_list
+ERR: Think\Model:gettree方法不存在！
+
+[ 2018-07-17T11:04:46+08:00 ] ::1 /talkhub/talkhub/index.php/admin/node/node_list
+ERR: Think\Model:gettree方法不存在！
+
+[ 2018-07-17T11:04:47+08:00 ] ::1 /talkhub/talkhub/index.php/admin/node/node_list
+ERR: Think\Model:gettree方法不存在！
+
+[ 2018-07-17T11:04:49+08:00 ] ::1 /talkhub/talkhub/index.php/admin/node/node_list
+ERR: Think\Model:gettree方法不存在！
+
+[ 2018-07-17T11:04:59+08:00 ] ::1 /talkhub/talkhub/index.php/admin/node/node_list
+ERR: Think\Model:get_tree方法不存在！
+
+[ 2018-07-17T11:19:53+08:00 ] ::1 /talkhub/talkhub/index.php/admin/index/test
+ERR: 模板不存在:D:/phpStudy/WWW/talkhub/talkhub/Admin/View/Index/test.html
+
+[ 2018-07-17T11:43:46+08:00 ] ::1 /talkhub/talkhub/index.php/admin/index/test
+ERR: 模板不存在:D:/phpStudy/WWW/talkhub/talkhub/Admin/View/Index/test.html
+
